@@ -8,4 +8,4 @@ A DigitalOcean-community-themed username generator - the Python version.
 
 Run `pip3 install do_username` to install the package
 
-After install, run `do_username` to generate a random username or `do_username <max_characters>` to generate a username with max character.
+After installing, run `do_username` to generate a random username or `do_username <max_characters>` to generate a username with max character.
